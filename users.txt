@@ -1,0 +1,9 @@
+username,password
+b,b
+ba,ba
+ci,cia
+cia,cia
+ha,ha
+lakuna,lakuna
+pekre,pekre
+baru,baru
